@@ -1,5 +1,18 @@
 Repomorphing
 An Open-Source Framework for Experiential, Impact-Driven Higher Education
+## Start Here
+
+Repomorphing is an open process. Participation does not require permission, credentials, or affiliation.
+
+**How to participate:**
+1. Identify a real-world problem that matters to you or your community.
+2. Select an existing open-source repository related to that problem.
+3. Intentionally transform (repomorph) it — technically, conceptually, or contextually.
+4. Document *what changed*, *why it matters*, and *who benefits*.
+5. Publish your work openly so others can learn from or extend it.
+
+Insight, clarity, and impact matter more than complexity.
+
 Executive Summary
 
 This white paper proposes Repomorphing, an educational framework that uses the open-source ecosystem—specifically GitHub—as a global proving ground for student insight, critical thinking, and social impact.
