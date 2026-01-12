@@ -7,6 +7,12 @@ For a concise introduction to Repomorphing, watch this short overview:
 ▶ Video link coming shortly
 
 This overview explains the Repomorphing process, its purpose, and how individuals and institutions can participate.
+## Repomorphing Overview Video (60s)
+
+The canonical overview video is hosted on IPFS.
+
+- **CID:** bafybeicydbjbry4pt2uf3rxs4wa3lkgo46r4jjyiua3lhyyfvffmubm2iu
+- **Media record:** `/media/Repomorphing_Overview_v1.md`
 
 ## Start Here
 
