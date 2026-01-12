@@ -1,5 +1,13 @@
 Repomorphing
 An Open-Source Framework for Experiential, Impact-Driven Higher Education
+## 60-Second Overview
+
+For a concise introduction to Repomorphing, watch this short overview:
+
+▶ Video link coming shortly
+
+This overview explains the Repomorphing process, its purpose, and how individuals and institutions can participate.
+
 ## Start Here
 
 Repomorphing is an open process. Participation does not require permission, credentials, or affiliation.
