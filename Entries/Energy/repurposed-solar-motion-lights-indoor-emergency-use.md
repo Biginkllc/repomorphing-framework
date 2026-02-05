@@ -20,8 +20,11 @@ Many homes need dependable lighting without relying on the power grid. This is a
 Avoid direct eye exposure, especially for children. Position the light above normal eye level and angle it downward.
 
 ## Visual Proof / Example
-Add supporting images in:
-`MEDIA/repurposed-solar-motion-lights/`
+
+![Repurposed Solar Motion Light Example](../../MEDIA/repurposed-solar-motion-lights/image-01.png)
+
+This image shows a solar-powered motion security light unit with its base and illuminated area, demonstrating its typical outdoor configuration that can be repurposed for indoor lighting use.
+
 
 ## Tags
 repomorphing, energy, resilience, off-grid, emergency-prep, underserved
