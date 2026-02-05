@@ -21,7 +21,8 @@ Avoid direct eye exposure, especially for children. Position the light above nor
 
 ## Visual Proof / Example
 
-![Repurposed Solar Motion Light Example](../../MEDIA/repurposed-solar-motion-lights/image-01.png)
+![Repurposed Solar Motion Light Example](/media/Led%20Solar%20Light%20White%20wo%20Bunker.jpg)
+
 
 This image shows a solar-powered motion security light unit with its base and illuminated area, demonstrating its typical outdoor configuration that can be repurposed for indoor lighting use.
 
