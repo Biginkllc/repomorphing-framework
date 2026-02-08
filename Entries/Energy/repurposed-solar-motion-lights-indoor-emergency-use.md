@@ -24,11 +24,10 @@ Avoid direct eye exposure, especially for children. Position the light above nor
 > The image below represents a commercially available outdoor solar motion light shown in its typical retail configuration, included here solely as a real-world reference point.
 
 ![Repurposed Solar Motion Light Example](/media/Led%20Solar%20Light%20White%20wo%20Bunker.jpg)
-
-/media/repurposed-solar-motion-light-mechanical.png.png
 ---
 
 ### Mechanical Illustration — Repurposed Solar Motion Light (Indoor / Off-Grid Use)
+![Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](/media/repurposed-solar-motion-light-mechanical.png.png)
 
 Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](/media/repurposed-solar-motion-light-mechanical.png.png)
 
