@@ -25,7 +25,7 @@ Avoid direct eye exposure, especially for children. Position the light above nor
 
 ![Repurposed Solar Motion Light Example](/media/Led%20Solar%20Light%20White%20wo%20Bunker.jpg)
 
-repurposed-solar-motion-light-mechanical-illustration.png 
+/media/repurposed-solar-motion-light-mechanical.png.png
 ---
 
 ### Mechanical Illustration — Repurposed Solar Motion Light (Indoor / Off-Grid Use)
