@@ -30,7 +30,8 @@ repurposed-solar-motion-light-mechanical-illustration.png
 
 ### Mechanical Illustration — Repurposed Solar Motion Light (Indoor / Off-Grid Use)
 
-![Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](./media/repurposed-solar-motion-light-mechanical-illustration.png)
+Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](/media/repurposed-solar-motion-light-mechanical.png.png)
+
 
 *Mechanical-style illustration abstracting a commonly available outdoor solar motion light adapted for indoor emergency and off-grid general-purpose use.  
 The diagram emphasizes component relationships (solar panel, cable, light head, enclosure) rather than brand, model, or commercial configuration, illustrating functional repurposing under grid-inappropriate conditions.*
