@@ -43,7 +43,9 @@ This image shows a solar-powered motion security light unit with its base and il
 
 ### Outdoor Configuration — Entry / Threshold Lighting
 
-![media/repurposed-solar-light-outdoor-doorway.png.png)
+repomorphing-framework/media
+/repurposed-solar-light-outdoor-doorway.png.png
+
 
 *Solar motion light mounted externally, casting illumination across the approach and through the doorway, improving entry safety and visibility.*
 
