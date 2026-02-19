@@ -43,7 +43,7 @@ This image shows a solar-powered motion security light unit with its base and il
 
 ### Outdoor Configuration — Entry / Threshold Lighting
 
-![Repurposed solar light mounted externally illuminating doorway](./media/repurposed-solar-light-outdoor-doorway.png)
+![media/repurposed-solar-light-outdoor-doorway.png.png)
 
 *Solar motion light mounted externally, casting illumination across the approach and through the doorway, improving entry safety and visibility.*
 
@@ -51,7 +51,6 @@ This image shows a solar-powered motion security light unit with its base and il
 
 ### Indoor Configuration — Interior Off-Grid Lighting
 
-![Repurposed solar light wired to interior wall](./media/repurposed-solar-light-indoor-wall.png)
 
 *Solar motion light wired to an interior wall, providing room illumination in off-grid living conditions.*
 
