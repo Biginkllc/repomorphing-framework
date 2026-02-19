@@ -51,7 +51,7 @@ This image shows a solar-powered motion security light unit with its base and il
 ---
 
 ### Indoor Configuration — Interior Off-Grid Lighting
-
+media/repurposed-solar-light-indoor-wall.png.png
 
 *Solar motion light wired to an interior wall, providing room illumination in off-grid living conditions.*
 
