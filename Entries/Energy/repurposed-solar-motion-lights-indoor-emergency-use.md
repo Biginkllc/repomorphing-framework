@@ -38,7 +38,7 @@ The diagram emphasizes component relationships (solar panel, cable, light head, 
 ---
 
 
-This image shows a solar-powered motion security light unit with its base and illuminated area, demonstrating its typical outdoor configuration that can be repurposed for indoor lighting use.
+These images show a solar-powered motion security light in both its typical outdoor configuration and repurposed interior placement, demonstrating how a single device can provide entry safety and off-grid room illumination.
 ---
 ---
 
