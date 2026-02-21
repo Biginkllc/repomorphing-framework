@@ -27,7 +27,7 @@ Avoid direct eye exposure, especially for children. Position the light above nor
 ---
 
 ### Mechanical Illustration — Repurposed Solar Motion Light (Indoor / Off-Grid Use)
-![Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](/media/repurposed-solar-motion-light-mechanical.png.png)
+![Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](./media/solar-light-mechanical.png)
 
 Mechanical illustration showing an outdoor solar motion light repurposed for indoor emergency and off-grid general-purpose lighting](/media/repurposed-solar-motion-light-mechanical.png.png)
 
