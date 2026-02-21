@@ -40,20 +40,23 @@ The diagram emphasizes component relationships (solar panel, cable, light head, 
 
 This image shows a solar-powered motion security light unit with its base and illuminated area, demonstrating its typical outdoor configuration that can be repurposed for indoor lighting use.
 ---
+---
 
 ### Outdoor Configuration — Entry / Threshold Lighting
 
-/repomorphing-framework/blob/main/media/repurposed-solar-light-indoor-wall.png%20(1).png
-
+![Repurposed solar light mounted externally illuminating doorway](/media/solar-light-outdoor-doorway.png)
 
 *Solar motion light mounted externally, casting illumination across the approach and through the doorway, improving entry safety and visibility.*
 
 ---
 
 ### Indoor Configuration — Interior Off-Grid Lighting
-media/repurposed-solar-light-indoor-wall.png.png
+
+![Repurposed solar light wired to interior wall](/media/solar-light-indoor-wall.png)
 
 *Solar motion light wired to an interior wall, providing room illumination in off-grid living conditions.*
+
+---
 
 ---
 
